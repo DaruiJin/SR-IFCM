@@ -39,4 +39,4 @@ title={Integrating Structural Symmetry and Local Homoplasy Information in Intuit
  ```
  
  ## License
- [MIT](LICENSE)
+ This project is licensed under the [MIT License](LICENSE)
